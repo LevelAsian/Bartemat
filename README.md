@@ -15,5 +15,5 @@ Ferdig til fredag?
   
 
 ## Andre tasks
-Undersøk Spark* penger (Anders)
-Lag kort til webutvkling (Stian, ok?)
+  * Undersøk Spark* penger (Anders)
+  * Lag kort til webutvkling (Stian, ok?)
