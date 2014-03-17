@@ -13,3 +13,7 @@ Ferdig til fredag?
   * Form (Hvor mange øl, cider etc. hvor, når og "annet" ++)
   * Payment w. Paypal
   
+
+## Andre tasks
+Undersøk Spark* penger (Anders)
+Lag kort til webutvkling (Stian, ok?)
